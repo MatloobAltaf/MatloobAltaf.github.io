@@ -1,6 +1,6 @@
 - name: Yieldwerx
   url: https://yieldwerx.com/
-  code: -
+  code: https://github.com/MatloobAltaf
   description: YieldWerx offers modular, end-to-end semiconductor test data analytics solutions for cost-effective and efficient data management and analysis.
   used:
     - thing: JavaScript
