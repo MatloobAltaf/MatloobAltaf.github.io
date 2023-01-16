@@ -1,5 +1,5 @@
 .footer {
-  padding: 50px 80px;
+  padding: 10px 16px;
   display: flex;
   justify-content: center;
   display: flex;
@@ -7,7 +7,7 @@
   align-items: center;
   text-align: center;
   @include desktop {
-    padding: 50px;
+    padding: 10px;
   }
   @include weird-medium {
     display: block;
