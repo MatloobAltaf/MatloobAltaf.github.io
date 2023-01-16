@@ -3,6 +3,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+  text-align: center;
   @include desktop {
     padding: 50px;
   }
@@ -36,6 +37,7 @@
     }
   }
   &__links {
+    display: inline-block;
     @include weird-medium {
       display: flex;
       justify-content: center;
