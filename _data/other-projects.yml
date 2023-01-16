@@ -11,7 +11,7 @@
     - thing: AWS
     - thing: Mariadb
 
-- name: Gender and Speaker Recognition using voice
+- name: Gender and Speaker Recognition
   url: https://github.com/MatloobAltaf/LUMS-Projects/tree/master/Gender%20%26%20Speaker%20Recognition%20using%20Voice
   code: hhttps://github.com/MatloobAltaf/LUMS-Projects/tree/master/Gender%20%26%20Speaker%20Recognition%20using%20Voice
   description: A Machine Learning Model to recognise gender and speaker using voice, with Urdu as spoken language.
