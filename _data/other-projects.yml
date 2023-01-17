@@ -24,7 +24,7 @@
 - name: Airline Database System [Console App]
   url: https://github.com/MatloobAltaf/LUMS-Projects/tree/master/Airline%20Database%20System%20on%20Console
   code: https://github.com/MatloobAltaf/LUMS-Projects/tree/master/Airline%20Database%20System%20on%20Console
-  description: Final project for my Database Design course at Northeastern. A simple web application that allows users to filter through a database containing Lonely Planet's <a class="underline-link" href="https://www.amazon.com/Lonely-Planets-Ultimate-Travel-Places/dp/1760342777" target="_blank">Top 500 Travel Destinations</a>. Users are able to add themselves as visitors as well as leave reviews of the destinations.
+  description: Air Line Database System is a Python console app using MySQL and Tkinter, which manages flights, passengers, and reservations for an airline company.
   used:
     - thing: Python
     - thing: tkinter
@@ -36,7 +36,7 @@
 - name: Chess [Console App]
   url: https://github.com/MatloobAltaf/LUMS-Projects/tree/master/CHESS%20on%20Console
   code: https://github.com/MatloobAltaf/LUMS-Projects/tree/master/CHESS%20on%20Console
-  description: myNEU student portal web prototype for my information science senior project. I conducted a study that aimed to answer the question of how myNEU can be improved to provide students at Northeastern with a better user experience. Informed by usability metrics gathered from user tests, I redesigned and developed a web prototype of myNEU.
+  description: Chess App is a C++ based console game using object-oriented design, allowing players to play against each other or against AI with adjustable difficulty levels, save and load games.
   used:
     - thing: C++
     - thing: Linux
